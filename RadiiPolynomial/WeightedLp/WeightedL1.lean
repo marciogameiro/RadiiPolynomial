@@ -1,6 +1,6 @@
 module
 
-public import RadiiPolynomial.WeightedLp.Basic
+public import RadiiPolynomial.WeightedLp.WeightedLp
 
 /-!
 # The weighted ℓ¹ space

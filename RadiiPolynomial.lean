@@ -3,7 +3,7 @@ module
 public import RadiiPolynomial.Abstract.RadiiPoly
 public import RadiiPolynomial.Abstract.Injectivity
 public import RadiiPolynomial.Abstract.FiniteDim
-public import RadiiPolynomial.WeightedLp.Basic
+public import RadiiPolynomial.WeightedLp.WeightedLp
 public import RadiiPolynomial.WeightedLp.WeightedL1
 public import RadiiPolynomial.WeightedLp.Operators
 public import RadiiPolynomial.BlockTail.FiniteTail
