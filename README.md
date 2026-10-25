@@ -49,3 +49,7 @@ The general part, `WeightedLp`, `Convolution` and `Calculus`, depends on Mathlib
 
 The computer-assisted proofs of the book *Ordinary Differential Equations: A Constructive Approach*
 are checked with this library in the project `lean/` of the repository `LeanearizedODEs`.
+
+## License
+
+Released under the MIT License; see [`LICENSE`](LICENSE).
